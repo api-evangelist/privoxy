@@ -5,8 +5,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Proxy
   - Privacy Proxy
+  - Proxy
 url: >-
   https://raw.githubusercontent.com/api-evangelist/privoxy/refs/heads/main/apis.yml
 created: '2026-03-27'
@@ -19,8 +19,8 @@ apis:
       Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page content, and managing cookies.
     humanURL: https://www.privoxy.org/
     tags:
-      - Proxy
       - Privacy Proxy
+      - Proxy
     properties:
       - type: Documentation
         url: https://www.privoxy.org/user-manual/
