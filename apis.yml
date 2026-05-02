@@ -31,8 +31,16 @@ common:
     url: https://www.privoxy.org/
   - type: Documentation
     url: https://www.privoxy.org/user-manual/
-  - type: GitHub Organization
+  - type: FAQ
+    url: https://www.privoxy.org/faq/index.html
+  - type: Developer Manual
+    url: https://www.privoxy.org/developer-manual/index.html
+  - type: Source Code
     url: https://www.privoxy.org/gitweb/
+  - type: Downloads
+    url: https://sourceforge.net/projects/ijbswa/files/
+  - type: Support
+    url: https://www.privoxy.org/user-manual/contact.html
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
