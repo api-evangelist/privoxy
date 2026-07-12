@@ -27,6 +27,8 @@ apis:
       - type: GettingStarted
         url: https://www.privoxy.org/user-manual/quickstart.html
 common:
+  - type: DomainSecurity
+    url: security/privoxy-domain-security.yml
   - type: Website
     url: https://www.privoxy.org/
   - type: Documentation
