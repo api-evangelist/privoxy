@@ -50,6 +50,12 @@ apis:
       - type: GettingStarted
         url: https://www.privoxy.org/user-manual/quickstart.html
 common:
+  - type: Plans
+    url: plans/privoxy-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/privoxy-rate-limits.yml
+  - type: FinOps
+    url: finops/privoxy-finops.yml
   - type: DomainSecurity
     url: security/privoxy-domain-security.yml
   - type: Website
